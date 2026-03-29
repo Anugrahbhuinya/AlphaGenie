@@ -10,7 +10,7 @@ AlphaGenie is a multi-agent AI system that takes a stock ticker and delivers a f
 
 ## 🎬 Demo
 
-> 📹 [Watch the 3-minute walkthrough](#) *(link in submission form)*
+> 📹 [Watch the 3-minute walkthrough](https://drive.google.com/file/d/1JKYOEa8WyQHW2CL2IlybqbJ7hMlqr_Ko/view?usp=sharing)
 
 ---
 
