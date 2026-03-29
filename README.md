@@ -1,4 +1,4 @@
-# 🧠 AlphaGenie — AI-Powered Stock Decision Engine
+# 🧠 AlphaGenie: AI-Powered Stock Decision Engine
 
 > *ET AI Hackathon 2026 · Problem Statement 6: AI for the Indian Investor*
 
